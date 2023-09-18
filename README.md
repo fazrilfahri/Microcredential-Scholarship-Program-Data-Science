@@ -15,4 +15,4 @@ This project aims to understand the relationship between features such as Horsep
 - Model evaluation
 - Car price prediction
 
-To run this project or access its source code, you can visit the [Link Here](https://github.com/fazrilfahri/Microcredential-Scholarship-Program-Data-Science/blob/c7260d524bec7cfe13e714927b4130f9b40eb0f2/Linear%20Regression%20in%20Car%20Price%20Prediction.ipynb)
+To run this project or access its source code, you can visit the [Link Here](https://github.com/fazrilfahri/Microcredential-Scholarship-Program-Data-Science/blob/9de967f2b40f53264b4d1a08a6c0b13d09c2d7e4/Linear%20Regression%20in%20Car%20Price%20Prediction.ipynb)
